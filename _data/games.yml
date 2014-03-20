@@ -52,3 +52,8 @@
   url: http://jffry.github.io/2048-Meta/
   image: images/META.png
   description: A 2048 of 2048 Games
+
+- name: 2048 Tetris
+  url: http://prat0318.github.io/2048-tetris/
+  image: images/TETRIS.png
+  description: 2048 with a Tetris twist

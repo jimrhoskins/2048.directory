@@ -828,11 +828,13 @@ hr {
 }
 
 .game-tile .thumb {
+  text-align: center;
   height: 256px;
 }
 
 .game-tile img {
-  width: 100%;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 .contribute {
