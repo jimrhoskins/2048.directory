@@ -43,3 +43,12 @@
   image: images/FLAPPY-LOG.png
   description: Flappy 2048 with logarithmic scoring
 
+- name: 2048 - Numberwang
+  url: http://louhuang.com/2048-numberwang/
+  image: images/NUMBERWANG.png
+  description: <a href="https://www.youtube.com/watch?v=qjOZtWZ56lc">The 2048 that simply everyone</a>
+
+- name: 2048 Meta
+  url: http://jffry.github.io/2048-Meta/
+  image: images/META.png
+  description: A 2048 of 2048 Games
