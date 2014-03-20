@@ -57,3 +57,8 @@
   url: http://prat0318.github.io/2048-tetris/
   image: images/TETRIS.png
   description: 2048 with a Tetris twist
+
+- name: Doctor Who 2048
+  url: http://games.usvsth3m.com/2048-doctor-who-edition/
+  image: images/DOCTOR.png
+  description: 2048 with The Doctor
