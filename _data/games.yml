@@ -18,6 +18,11 @@
   image: images/2048-AI.png
   description: Why play when a computer can play for you?
 
+- name: 2048 - Multiplayer
+  url: http://emils.github.io/2048-multiplayer/
+  image: images/MULTIPLAYER.png
+  description: Battle competitors to see who's the ultimate 2048 player!
+
 - name: 16384 Hex
   url: http://rudradevbasak.github.io/16384_hex/
   image: images/16384.png
