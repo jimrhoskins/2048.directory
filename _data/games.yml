@@ -67,3 +67,8 @@
   url: http://games.usvsth3m.com/2048-doctor-who-edition/
   image: images/DOCTOR.png
   description: 2048 with The Doctor
+
+- name: 2048 Corgis
+  url: http://cshao.me/Ventus-2048/
+  image: images/2048-corgis.png
+  description: 2048 with Corgis
