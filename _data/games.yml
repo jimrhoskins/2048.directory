@@ -67,3 +67,8 @@
   url: http://games.usvsth3m.com/2048-doctor-who-edition/
   image: images/DOCTOR.png
   description: 2048 with The Doctor
+  
+- name: 1
+  url: http://7bp.github.io/1
+  image: images/1.png
+  description: Divide until you reach the 1-tile!
