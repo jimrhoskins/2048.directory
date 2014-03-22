@@ -77,3 +77,8 @@
   url: https://sphere.chronosempire.org.uk/~HEx/8402/
   image: images/8402.png
   description: Prevent the evil AI player from reaching the 2048 tile!
+
+- name: 1
+  url: http://7bp.github.io/1
+  image: images/1.png
+  description: Divide until you reach the 1-tile!
