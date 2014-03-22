@@ -67,3 +67,13 @@
   url: http://games.usvsth3m.com/2048-doctor-who-edition/
   image: images/DOCTOR.png
   description: 2048 with The Doctor
+
+- name: 2048 - Hard
+  url: https://sztupy.github.io/2048-Hard/
+  image: images/2048-HARD.png
+  description: The computer will always place the tile in an annoying place.
+
+- name: 8402
+  url: https://sphere.chronosempire.org.uk/~HEx/8402/
+  image: images/8402.png
+  description: Prevent the evil AI player from reaching the 2048 tile!
