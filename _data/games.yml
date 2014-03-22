@@ -82,3 +82,8 @@
   url: http://7bp.github.io/1
   image: images/1.png
   description: Divide until you reach the 1-tile!
+
+- name: 2048 Corgis
+  url: http://cshao.me/Ventus-2048/
+  image: images/2048-corgis.png
+  description: 2048 with Corgis
