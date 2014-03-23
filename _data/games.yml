@@ -87,3 +87,8 @@
   url: http://cshao.me/Ventus-2048/
   image: images/2048-corgis.png
   description: 2048 with Corgis
+
+- name: Dropbox 2048
+  url: https://dropbox2048.site44.com/
+  image: images/dropbox2048.png
+  description: Dropbox 2048 saves your current game and high scores
