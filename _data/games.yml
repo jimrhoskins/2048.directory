@@ -87,3 +87,8 @@
   url: http://cshao.me/Ventus-2048/
   image: images/2048-corgis.png
   description: 2048 with Corgis
+
+- name: 2548
+  url: http://mike199515.free3v.com/1597/2.htm
+  image: images/2548.png
+  description: Get to the 2584 tile through the fibonacci series!
