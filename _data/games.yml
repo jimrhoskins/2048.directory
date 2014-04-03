@@ -87,3 +87,38 @@
   url: http://cshao.me/Ventus-2048/
   image: images/2048-corgis.png
   description: 2048 with Corgis
+
+ - name: 2048 Save Progress (jerryjia's fork)
+  url: http://jerryjiahaha.github.io/2048/
+  image: images/saveprogress.png
+  description: 2048 with the ability to save progress and undo the last move!
+
+ - name: 9007199254740992
+  url: http://www.csie.ntu.edu.tw/~b01902112/9007199254740992/
+  image: images/9007199254740992.png
+  description: Play 2048 to infinity (nearly)
+
+  - name: Threes
+  url: http://bnhw.co.uk/threes/
+  image: images/threes.png
+  description: 2048 with threes instad of twos, low graphics
+
+ - name: ThreesJS
+  url: http://threesjs.com/
+  image: images/threesjs.png
+  description: 2048 with threes instad of twos, higher graphics
+
+- name: Threes Version 2
+  url: http://www.crazygames.com/game/threes-browser-version-2
+  image: threesv2.png
+  description: 2048 with threes instad of twos, version 2, written in HTML5
+
+ - name: 25
+  url: http://bartbonte.com/25/
+  image: images/25.png
+  description: Bart Bontes interpretation of 2048
+
+ - name: 2048 Pokemon
+  url: http://amschrader.github.io/2048/
+  image: images/pokemon.png
+  description: Pidgey evolves to...
