@@ -90,5 +90,5 @@
   
 - name: Star Wars 2048
   url: http://tobinbrown.net/2048/
-  image: images/star-wars-2048.png
+  image: http://tobinbrown.net/2048/images/star-wars-2048.png
   description: Use the force to combine the tiles and create the 2048 tile and rule the galaxy!
