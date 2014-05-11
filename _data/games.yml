@@ -87,3 +87,18 @@
   url: http://cshao.me/Ventus-2048/
   image: images/2048-corgis.png
   description: 2048 with Corgis
+
+- name: 511 Game
+  url: http://www.kongregate.com/games/random_strangers/511-game
+  image: images/logo511.png
+  description: 2048 on a 3x3 grid, solved and with hints
+
+- name: 2048 Analyze
+  url: http://random-strangers.com/analyze2048
+  image: images/2048analyze.png
+  description: 2048 on a 3x3 grid, solved and with hints
+
+- name: Smart 2048
+  url: http://random-strangers.com/smart2048
+  image: images/smart2048.png
+  description: 2048 with AI solver (commercial)
