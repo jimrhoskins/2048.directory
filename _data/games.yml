@@ -96,7 +96,7 @@
 - name: 2048 Analyze
   url: http://random-strangers.com/analyze2048
   image: images/2048analyze.png
-  description: 2048 on a 3x3 grid, solved and with hints
+  description: 2048 with AI solver
 
 - name: Smart 2048
   url: http://random-strangers.com/smart2048
