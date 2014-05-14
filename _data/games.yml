@@ -87,3 +87,13 @@
   url: http://cshao.me/Ventus-2048/
   image: images/2048-corgis.png
   description: 2048 with Corgis
+
+- name: 2048x5
+  url: http://2048.kaivoslab.com/
+  image: images/2048-byfive.png
+  description: 2048 in a 5 by 5 grid.
+
+- name: 2048x6
+  url: http://2048.kaivoslab.com/bysix/
+  image: images/2048-bysix.png
+  description: 2048 in a 6 by 6 grid.
