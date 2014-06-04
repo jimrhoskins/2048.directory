@@ -87,3 +87,8 @@
   url: http://cshao.me/Ventus-2048/
   image: images/2048-corgis.png
   description: 2048 with Corgis
+  
+- name: 2048 Excel Style
+  url: http://www.spreadsheet1.com/2048-game-version-for-excel.html
+  image: images/2048-2013.png
+  description: 2048 Excel style in 3D
