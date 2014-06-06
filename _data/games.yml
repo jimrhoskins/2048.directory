@@ -87,3 +87,8 @@
   url: http://cshao.me/Ventus-2048/
   image: images/2048-corgis.png
   description: 2048 with Corgis
+
+- name: Ride 2048
+  url: http://facelesstheone.github.io/ride2048/
+  image: images/ride2048.png
+  description: Tiles are falling down so hurry up!
