@@ -87,3 +87,8 @@
   url: http://cshao.me/Ventus-2048/
   image: images/2048-corgis.png
   description: 2048 with Corgis
+
+- name: Triangular 2048
+  url: http://creativesparkstudios.com/triangular-2048/index.html
+  image: http://creativesparkstudios.com/images/portfolio-images/triangular-2048-220x120_002.png
+  description: 2048 on a triangular grid.
