@@ -54,6 +54,11 @@
   image: images/16384.png
   description: Play on a hexagonal board
 
+- name: 2048 - Fibonacci
+  url: http://2048alphabet.com/fibonacci/
+  image: images/2048-fibonacci.png
+  description: Join the numbers and get to the 2584 tile!
+
 - name: DOGE2048
   url: http://doge2048.com/
   image: images/2048-DOGE.png
