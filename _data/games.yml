@@ -23,6 +23,16 @@
   image: images/MULTIPLAYER.png
   description: Battle competitors to see who's the ultimate 2048 player!
 
+- name: 8192 - 6x6
+  url: https://1338h4x.github.io/2-2-4/
+  image: images/6x6.png
+  description: What's better than a 4x4 board? 6x6!
+
+- name: 16384 - 8x8
+  url: https://annimon.github.io/16384/
+  image: images/8x8.png
+  description: This is madness...
+
 - name: 16384 Hex
   url: http://rudradevbasak.github.io/16384_hex/
   image: images/16384.png
