@@ -59,6 +59,11 @@
   image: images/2048-fibonacci.png
   description: Join the numbers and get to the 2584 tile!
 
+- name: MMXLVIII
+  url: http://games.usvsth3m.com/2048/roman-numerals-edition-33/
+  image: images/MMXLVIII.png
+  description: 2048, Roman numerals style
+
 - name: DOGE2048
   url: http://doge2048.com/
   image: images/2048-DOGE.png
