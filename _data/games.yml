@@ -43,6 +43,12 @@
   image: images/2048.png
   description: No random tile! You always get a 2-tile in the first available cell.
 
+- name: 2048 - Dropbox edition
+  url: https://dropbox2048.site44.com/
+  image: images/2048.png
+  description: Log in with DropBox to save your progress and high scores
+
+
 - name: 16384 Hex
   url: http://rudradevbasak.github.io/16384_hex/
   image: images/16384.png
