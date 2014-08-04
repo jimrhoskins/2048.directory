@@ -23,6 +23,11 @@
   image: images/MULTIPLAYER.png
   description: Battle competitors to see who's the ultimate 2048 player!
 
+- name: 4096 - 5x5
+  url: http://2048.kaivoslab.com/
+  image: images/5x5.png
+  description: What's better than a 4x4 board? 5x5!
+
 - name: 8192 - 6x6
   url: https://1338h4x.github.io/2-2-4/
   image: images/6x6.png
