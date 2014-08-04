@@ -97,3 +97,9 @@
   url: http://cshao.me/Ventus-2048/
   image: images/2048-corgis.png
   description: 2048 with Corgis
+
+- name: 2048 Hell
+  url: https://enah.github.io/hell/
+  image: images/2048-hell.png
+  description: For the masochists among us
+
