@@ -19,7 +19,7 @@
   description: Why play when a computer can play for you?
 
 - name: 2048 - Multiplayer
-  url: http://emils.github.io/2048-multiplayer/
+  url: http://es.github.io/2048-multiplayer/
   image: images/MULTIPLAYER.png
   description: Battle competitors to see who's the ultimate 2048 player!
 
