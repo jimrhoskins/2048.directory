@@ -87,3 +87,8 @@
   url: http://cshao.me/Ventus-2048/
   image: images/2048-corgis.png
   description: 2048 with Corgis
+  
+- name: Star Wars 2048
+  url: http://tobinbrown.net/2048/
+  image: http://tobinbrown.net/2048/images/star-wars-2048.png
+  description: Use the force to combine the tiles and create the 2048 tile and rule the galaxy!
