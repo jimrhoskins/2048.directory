@@ -87,3 +87,8 @@
   url: http://cshao.me/Ventus-2048/
   image: images/2048-corgis.png
   description: 2048 with Corgis
+
+- name: 2048 Alphabet
+  url: http://2048alphabet.com/
+  image: http://2048alphabet.com/img/2048alphabet.png
+  description: Version of game with letters
