@@ -28,6 +28,11 @@
   image: images/16384.png
   description: Play on a hexagonal board
 
+- name: Reverse 2048
+  url: http://ajnas.in/one/
+  image: images/one.png
+  description: Start from 2048 tiles to get to a 1 tile and even fractions :)
+
 - name: DOGE2048
   url: http://doge2048.com/
   image: images/2048-DOGE.png
