@@ -87,3 +87,8 @@
   url: http://cshao.me/Ventus-2048/
   image: images/2048-corgis.png
   description: 2048 with Corgis
+  
+- name: 2048 - Version Française
+  url: http://2048.wiity.net/
+  image: images/2048.png
+  description: The original 2048 game translated in French.
