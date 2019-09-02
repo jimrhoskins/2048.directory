@@ -22,6 +22,11 @@
   url: http://es.github.io/2048-multiplayer/
   image: images/MULTIPLAYER.png
   description: Battle competitors to see who's the ultimate 2048 player!
+  
+- name: Custom 2048
+  url: https://custom2048.github.io/
+  image: https://custom2048.github.io/cover.jpg
+  description: Customize your 2048 experience
 
 - name: 16384 Hex
   url: http://rudradevbasak.github.io/16384_hex/
