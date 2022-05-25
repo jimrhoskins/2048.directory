@@ -62,7 +62,12 @@
   url: http://jffry.github.io/2048-Meta/
   image: images/META.png
   description: A 2048 of 2048 Games
-
+  
+- name: 2048 Meta
+  url: https://2048arena.com/pokemon/
+  image: https://i.imgur.com/AYBjZpS.png
+  description: Combine the Pokemon to get Mewtwo!
+  
 - name: 2048 Tetris
   url: http://prat0318.github.io/2048-tetris/
   image: images/TETRIS.png
