@@ -63,7 +63,7 @@
   image: images/META.png
   description: A 2048 of 2048 Games
   
-- name: 2048 Meta
+- name: Pokemon 2048
   url: https://2048arena.com/pokemon/
   image: https://i.imgur.com/AYBjZpS.png
   description: Combine the Pokemon to get Mewtwo!
