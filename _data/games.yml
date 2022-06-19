@@ -97,3 +97,8 @@
   url: http://cshao.me/Ventus-2048/
   image: images/2048-corgis.png
   description: 2048 with Corgis
+
+  - name: 2048 Dark
+  url: https://www.2048dark.com/
+  image: images/2048-DARK.png
+  description: 2048 Dark Mode
