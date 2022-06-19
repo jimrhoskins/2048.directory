@@ -97,3 +97,8 @@
   url: http://cshao.me/Ventus-2048/
   image: images/2048-corgis.png
   description: 2048 with Corgis
+
+- name: pointless 2048
+  url: https://potcfdk.github.io/pointless2048/
+  image: images/2048.png
+  description: Merge every tile with every other tile, regardless of their values.
