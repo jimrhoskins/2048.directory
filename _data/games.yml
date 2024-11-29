@@ -11,7 +11,7 @@
 - name: 2048 - 4D
   url: http://huonw.github.io/2048-4D/
   image: images/2048-4D.png
-  description: Play in 4D on a 2x2x2x2  board
+  description: Play in 4D on a 2x2x2x2 board
 
 - name: 2048 - AI
   url: http://ov3y.github.io/2048-AI/
