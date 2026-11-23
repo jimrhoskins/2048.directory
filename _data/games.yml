@@ -97,3 +97,8 @@
   url: http://cshao.me/Ventus-2048/
   image: images/2048-corgis.png
   description: 2048 with Corgis
+
+- name: 2048 Cupcakes
+  url: https://2048cupcakes.top/
+  image: https://img.2048cupcakes.top/s_5f16233q2z500u/share.0b5b7ac0ce.png
+  description: 2048 with thirteen cupcakes, from Vanilla Birthday to the Rainbow at 8,192
